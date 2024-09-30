@@ -1,0 +1,46 @@
+
+table{
+    border: 3px #000000 solid;
+    width: 50%;
+    margin: auto;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+}
+th, td{
+    border: 3px #000000 solid;
+    padding: 5px;
+}
+th{
+    background-color: #00ffff;
+}
+
+
+#produto:hover{
+    background-color: #00ffff;
+    font-size: 1.2em;
+}
+#preço:hover{
+    background-color: #00ffff;
+    font-size: 1.2em;
+}
+.aula th{
+    background-color: #251f23;
+    color: #ffffff;
+}
+.aula{
+    margin-top: 10px;
+
+}
+.aula caption{
+    font-size: 1.5em;
+    
+    margin: 15px;
+}
+td{
+    padding:  10px;
+    text-align: center;
+    background-color: white;
+}
+*{
+    background-color: #00ffff;
+}
